@@ -3,3 +3,4 @@
     hosts:
       centos:
         ansible_connection: docker
+        ansible_user: root
