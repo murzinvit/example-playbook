@@ -1,5 +1,5 @@
 ---
   java_app:
     hosts:
-      aragast:
-        ansible_connection: docker
+      localhost:
+        ansible_connection: local
