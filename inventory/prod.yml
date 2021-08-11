@@ -1,5 +1,5 @@
 ---
   java_app:
     hosts:
-      centos:
+      aragast:
         ansible_connection: docker
